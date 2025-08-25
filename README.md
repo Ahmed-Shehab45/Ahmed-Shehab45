@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdjaHhzNGhsdnc1ODkwMmw5ODNxanFycW53Y2Z1Y2V5bDZ5cnkyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1eVHxFk781UxUNMul/giphy.gif"  />
 
 ###
 
